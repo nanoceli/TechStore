@@ -11,7 +11,7 @@ Enjoy it!</h4>
 <p>> Redux <img width="20px" heigth="20px" src="client\public\images\redux.svg"></p>
 <p>> Node.js <img width="20px" heigth="20px" src="client\public\images\nodejs-icon.svg"></p>
 <p>> Supabase <img width="20px" heigth="20px" src="https://marketplace-assets.digitalocean.com/logos/supabase-supabaserealtime-18-04.svg"></p>
-<p>> Express <img width="20px" heigth="20px" src="client\public\images\expressjs (1).svg"></p>
+<p>> Express <img width="20px" heigth="20px" src="https://www.edureka.co/blog/wp-content/uploads/2019/07/express-logo.png"></p>
 <p>> Sequelize <img width="20px" heigth="20px" src="client\public\images\sequelize.svg"></p>
 <p>> Css <img width="20px" heigth="20px" src="client\public\images\css-5.svg"></p>
 <p>> HTML5 <img width="20px" heigth="20px" src="client\public\images\html5.svg"></p>
